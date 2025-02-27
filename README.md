@@ -1,9 +1,5 @@
 # 파이썬과 인공지능을 활용한 금융 자료 분석
 
-![image](https://github.com/user-attachments/assets/aa306864-3862-4d6d-9980-f403eaf53797)
-
-<br>
-
 ## 강의 후기
 
 대학 시절 투자론을 접하면서 주식과 암호화폐에 관심을 가지게 되었고, 차트 분석과 기업 분석을 공부하며 실제 거래도 해왔습니다. 
@@ -25,6 +21,11 @@ Pandas, NumPy 같은 라이브러리로 데이터를 빠르게 전처리하고, 
 
 현재 교육 내용을 바탕으로 '[AntBot 2.0](https://github.com/JJOK97/AntBot2.0)'을 개발 중이며, 곧 배포를 앞두고 있습니다. 
 이번에는 교육내용에서 더 나아가 Grafana와 Prometheus를 활용해 실시간 모니터링을 통해서 실제 수익률을 관리하며 지속적으로 알고리즘을 향상시킬 계획입니다. 
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/aa306864-3862-4d6d-9980-f403eaf53797)
 
 <br>
 <hr>
